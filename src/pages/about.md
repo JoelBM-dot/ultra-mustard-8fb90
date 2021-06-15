@@ -6,13 +6,23 @@ sections:
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
     headline: Somos un centro
-    subtitle: >-
-      Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
-      from Québec City. Planty is a theme we built for
-      [Stackbit](https://www.stackbit.com/), a killer JAMstack site-builder. To
-      enable e-commerce on Planty, you’ll need to [sign up for
-      Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-      required.
+    subtitle: >+
+      Somos un centro capilar, especializado en el asesoramiento de productos
+      naturales para problemas capilares.
+
+      ¿Quieres conocernos aun todavía más?
+
+      Os invitamos a que, sigas nuestra página: [Centre Natural
+      d'Esparraguera](https://centre-natural-ecologic-esparreguera.com/)
+
+
+      ¿Porqué?
+
+      Pues... tenemos un montón de información y más productos preparados para
+      ti, en caso de que aquí no
+
+      encuentres lo que busques, como productos para el cuidado facial. 
+
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
