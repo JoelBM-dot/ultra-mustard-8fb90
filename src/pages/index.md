@@ -6,11 +6,12 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
+    content: >
+      # Las mejores marcas naturales, para el cuidado del cabello
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+
+      Estos productos te ayudaran para el cuidado capilar, sin químicos y ayuda
+      contra la contaminación
     actions:
       - title: See all items
         url: /store
