@@ -6,9 +6,10 @@ sections:
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
     headline: Somos un centro
-    subtitle: >+
-      Somos un centro capilar, especializado en el asesoramiento de productos
+    subtitle: >
+      Un centro capilar, especializado en el asesoramiento de productos
       naturales para problemas capilares.
+
 
       ¿Quieres conocernos aun todavía más?
 
@@ -18,11 +19,11 @@ sections:
 
       ¿Porqué?
 
-      Pues... tenemos un montón de información y más productos preparados para
-      ti, en caso de que aquí no
+      Pues... tenemos un montón de información en nuestra página y 
 
-      encuentres lo que busques, como productos para el cuidado facial. 
+      además más productos preparados para ti, en caso de que aquí no
 
+      encuentres lo que busques, como productos para el cuidado facial.
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
