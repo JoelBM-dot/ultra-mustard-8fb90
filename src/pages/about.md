@@ -34,12 +34,12 @@ sections:
           *   TÉCNICA ESPECIALIZADA EN TRATAMIENTOS Y PRODUCTOS BIOCAPILARES.
         image: images/nan_talk.jpg
       - title: We think plants are the future
-        description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
+        description: >
+          NOS FACILITA LAS HERRAMIENTAS PORQUE LA PERSONA APRENDA POR SÍ MISMA A
+          CUIDAR DE SU CABELLO O PIEL DE UNA FORMA SALUDABLE: TRATAMIENTOS,
+          PRODUCTOS, NUTRICIÓN CELULAR ACTIVA (SUPLEMENTOS BIO ALIMENTARIOS)
+          HÁBITOS… EN FUNCIÓN DE SUS NECESIDADES O DEL ESTILO DE VIDA, APLICANDO
+          NUESTRA FILOSOFÍA NATURISTA Y SALUDABLE EN EL CUIDADO DE LA IMAGEN.
         image: images/team.jpg
   - type: promotion_section
     section_id: promotion_section
