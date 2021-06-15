@@ -48,7 +48,7 @@ sections:
         image: images/team.jpg
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: Descubre nuestros productos
     subtitle: from $149.99
     image: images/promo.jpg
     background_image: /images/leaf.svg
