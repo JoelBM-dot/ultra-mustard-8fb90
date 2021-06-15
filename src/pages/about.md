@@ -28,10 +28,16 @@ sections:
     section_id: bulletpoints_section
     bulletpoints:
       - title: PAQUI CALZADO
-        description: |
+        description: >
           *   ECO COSMETOLOGÍA CAPILAR, FACIAL Y CORPORAL.
 
+
           *   TÉCNICA ESPECIALIZADA EN TRATAMIENTOS Y PRODUCTOS BIOCAPILARES.
+
+
+          Para saber más sobre mi, puedes hacer click aqui: [AQUI verás todos
+          mis diplomas y los servicios que
+          ofrecemos](https://centre-natural-ecologic-esparreguera.com/es/sobre-nosotros/).
         image: images/nan_talk.jpg
       - title: ¿QUÉ PUEDE HACER PARA TI UN BEAUTY COACH ORGÁNICO?
         description: "Nos facilita las herramientas porque la persona aprenda por sí misma a cuidar de su cabello o piel de una forma saludable: tratamientos, productos, nutrición celular activa (suplementos bio alimentarios) hábitos… en función de sus necesidades o del estilo de vida, aplicando nuestra filosofía naturista y saludable en el cuidado de la imagen. \U0001F467\n"
