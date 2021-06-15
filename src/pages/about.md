@@ -41,7 +41,7 @@ sections:
         image: images/ecobotiga1.png
       - title: ¿QUÉ PUEDE HACER PARA TI UN BEAUTY COACH ORGÁNICO?
         description: "Nos facilita las herramientas porque la persona aprenda por sí misma a cuidar de su cabello o piel de una forma saludable: tratamientos, productos, nutrición celular activa (suplementos bio alimentarios) hábitos… en función de sus necesidades o del estilo de vida, aplicando nuestra filosofía naturista y saludable en el cuidado de la imagen. \U0001F467\n"
-        image: images/waterfall-5365926_1920.jpg
+        image: images/magical-goat.png
   - type: promotion_section
     section_id: promotion_section
     title: 'Descubre nuestros productos:'
