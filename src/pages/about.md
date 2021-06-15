@@ -31,7 +31,7 @@ sections:
         description: |
           *   ECO COSMETOLOGÍA CAPILAR, FACIAL Y CORPORAL.
 
-          *   TÉCNICA ESPECIALIZADA EN TRATAMIENTOS Y PRODUCTOS BIOCAPIL.LARS.
+          *   TÉCNICA ESPECIALIZADA EN TRATAMIENTOS Y PRODUCTOS BIOCAPILARES.
         image: images/nan_talk.jpg
       - title: We think plants are the future
         description: >-
