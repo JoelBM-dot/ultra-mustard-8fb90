@@ -43,7 +43,7 @@ sections:
         image: images/team.jpg
   - type: promotion_section
     section_id: promotion_section
-    title: Descubre nuestros productos
+    title: 'Descubre nuestros productos:'
     subtitle: Desde 21.00€
     image: images/promo.jpg
     background_image: /images/leaf.svg
