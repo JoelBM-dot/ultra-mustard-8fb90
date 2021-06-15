@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
+    background_image: images/girl-2436545_1920.jpg
     background_image_opacity: 65
     content: >
       # Las mejores marcas para el cuidado del cabello a lo natural
