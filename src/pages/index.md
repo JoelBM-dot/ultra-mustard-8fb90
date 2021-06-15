@@ -7,7 +7,7 @@ sections:
     background_image: images/girl-2436545_1920.jpg
     background_image_opacity: 65
     content: >
-      # Las mejores marcas para el cuidado del cabello a lo natural
+      # Las mejores marcas para el cuidado del cabello A LO NATURAL
 
 
       Estos productos te ayudaran para el cuidado capilar, sin químicos y ayuda
