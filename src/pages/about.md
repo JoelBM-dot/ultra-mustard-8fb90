@@ -27,7 +27,7 @@ sections:
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
-      - title: PAQUI CALZADO
+      - title: "PAQUI CALZADO \U0001F487‍♀️"
         description: >
           *   ECO COSMETOLOGÍA CAPILAR, FACIAL Y CORPORAL.
 
