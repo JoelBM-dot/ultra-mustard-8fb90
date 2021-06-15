@@ -34,12 +34,7 @@ sections:
           *   TÉCNICA ESPECIALIZADA EN TRATAMIENTOS Y PRODUCTOS BIOCAPILARES.
         image: images/nan_talk.jpg
       - title: We think plants are the future
-        description: >
-          NOS FACILITA LAS HERRAMIENTAS PORQUE LA PERSONA APRENDA POR SÍ MISMA A
-          CUIDAR DE SU CABELLO O PIEL DE UNA FORMA SALUDABLE: TRATAMIENTOS,
-          PRODUCTOS, NUTRICIÓN CELULAR ACTIVA (SUPLEMENTOS BIO ALIMENTARIOS)
-          HÁBITOS… EN FUNCIÓN DE SUS NECESIDADES O DEL ESTILO DE VIDA, APLICANDO
-          NUESTRA FILOSOFÍA NATURISTA Y SALUDABLE EN EL CUIDADO DE LA IMAGEN.
+        description: "Nos facilita las herramientas porque la persona aprenda por sí misma a cuidar de su cabello o piel de una forma saludable: tratamientos, productos, nutrición celular activa (suplementos bio alimentarios) hábitos… en función de sus necesidades o del estilo de vida, aplicando nuestra filosofía naturista y saludable en el cuidado de la imagen. \U0001F467\n"
         image: images/team.jpg
   - type: promotion_section
     section_id: promotion_section
