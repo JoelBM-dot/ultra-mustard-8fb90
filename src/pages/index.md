@@ -12,11 +12,7 @@ sections:
 
       Estos productos te ayudaran para el cuidado capilar, sin químicos y ayuda
       contra la contaminación
-    actions:
-      - url: /store
-        arrow: true
-        style: primary
-        title: Descubrenos
+    actions: []
   - type: featured_products_section
     section_id: best_sellers_section
     title: Best sellers
